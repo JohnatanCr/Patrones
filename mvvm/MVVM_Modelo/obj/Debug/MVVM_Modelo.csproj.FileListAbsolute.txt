@@ -1,0 +1,15 @@
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\obj\Debug\MVVM_Modelo.csprojAssemblyReference.cache
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\obj\Debug\App.g.cs
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\obj\Debug\MVVM_Modelo_MarkupCompile.cache
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\obj\Debug\MVVM_Modelo_MarkupCompile.lref
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\bin\Debug\MVVM_Modelo.exe.config
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\bin\Debug\MVVM_Modelo.exe
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\bin\Debug\MVVM_Modelo.pdb
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\obj\Debug\MVVM_Modelo.g.resources
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\obj\Debug\MVVM_Modelo.Properties.Resources.resources
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\obj\Debug\MVVM_Modelo.csproj.GenerateResource.cache
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\obj\Debug\MVVM_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\obj\Debug\MVVM_Modelo.exe
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\obj\Debug\MVVM_Modelo.pdb
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\obj\Debug\View\MainWindow.g.cs
+C:\Users\Cristian\Documents\IDTS\mvvm\MVVM_Modelo\obj\Debug\View\MainWindow.baml
