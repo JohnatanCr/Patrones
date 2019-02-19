@@ -1,0 +1,16 @@
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\bin\Debug\Calculus.exe.config
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\bin\Debug\Calculus.exe
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\bin\Debug\Calculus.pdb
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\Calculus.csprojAssemblyReference.cache
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\App.g.cs
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\Calculus_MarkupCompile.cache
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\Calculus_MarkupCompile.lref
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\Calculus.g.resources
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\Calculus.Properties.Resources.resources
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\Calculus.csproj.GenerateResource.cache
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\Calculus.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\Calculus.exe
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\Calculus.pdb
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\View\MainWindow.g.cs
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\View\MainWindow.baml
+C:\Users\Cristian\Documents\IDTS\HdeSoftware\T7_CalculadoraMVVC\Calculus\obj\Debug\GeneratedInternalTypeHelper.g.cs
