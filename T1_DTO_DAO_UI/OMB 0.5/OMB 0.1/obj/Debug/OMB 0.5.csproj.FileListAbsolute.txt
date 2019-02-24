@@ -1,0 +1,37 @@
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\bin\Debug\OMB.exe.config
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\bin\Debug\OMB.exe
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\bin\Debug\OMB.pdb
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\bin\Debug\es-MX\OMB.resources.dll
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\bin\Debug\MaterialSkin.dll
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\bin\Debug\MySql.Data.dll
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\bin\Debug\MySql.Data.xml
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\obj\Debug\OMB 0.5.csprojAssemblyReference.cache
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\obj\Debug\OMB.Interfaz.resources
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\obj\Debug\omb.Properties.Resources.resources
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\obj\Debug\OMB.Users.resources
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\obj\Debug\OMB.Interfaz.es-MX.resources
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\obj\Debug\OMB 0.5.csproj.GenerateResource.cache
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\obj\Debug\OMB 0.5.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\obj\Debug\es-MX\OMB.resources.dll
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\obj\Debug\OMB 0.5.csproj.CopyComplete
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\obj\Debug\OMB.exe
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\obj\Debug\OMB.pdb
+C:\Users\crist\Documents\1ng Desarrollo de Tecnologia Y Software\3 Semestre\Parcial 3\Proyectos II\Alfa 0.1\OMB 0.5\OMB 0.1\obj\Debug\OMB.Pago.resources
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\bin\Debug\OMB.exe.config
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\bin\Debug\OMB.exe
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\bin\Debug\OMB.pdb
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\bin\Debug\es-MX\OMB.resources.dll
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\bin\Debug\MaterialSkin.dll
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\bin\Debug\MySql.Data.xml
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\obj\Debug\OMB 0.5.csprojAssemblyReference.cache
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\obj\Debug\OMB.Interfaz.resources
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\obj\Debug\omb.Properties.Resources.resources
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\obj\Debug\OMB.Pago.resources
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\obj\Debug\OMB.Users.resources
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\obj\Debug\OMB.Interfaz.es-MX.resources
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\obj\Debug\OMB 0.5.csproj.GenerateResource.cache
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\obj\Debug\OMB 0.5.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\obj\Debug\es-MX\OMB.resources.dll
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\obj\Debug\OMB 0.5.csproj.CopyComplete
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\obj\Debug\OMB.exe
+C:\Users\Cristian\Documents\IDTS\OMB 0.5\OMB 0.1\obj\Debug\OMB.pdb
