@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfBubblingEvents.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfBubblingEvents"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="outerburron" HorizontalAlignment="Left" VerticalAlignment="Top" Width="306" Margin="233,113,0,0" Height="113" Click="Outerburron_Click">
+            <Button x:Name="innerbutton" Height="30" Width="80" Content="Inner Button" Click="Innerbutton_Click"/>     
+        </Button>
+
+    </Grid>
+</Window>

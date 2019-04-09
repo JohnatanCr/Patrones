@@ -1,0 +1,14 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\bin\Debug\WpfBubblingEvents.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\bin\Debug\WpfBubblingEvents.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\bin\Debug\WpfBubblingEvents.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\obj\Debug\WpfBubblingEvents_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\obj\Debug\WpfBubblingEvents_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\obj\Debug\WpfBubblingEvents.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\obj\Debug\WpfBubblingEvents.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\obj\Debug\WpfBubblingEvents.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\obj\Debug\WpfBubblingEvents.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\obj\Debug\WpfBubblingEvents.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfBubblingEvents\WpfBubblingEvents\obj\Debug\WpfBubblingEvents.pdb

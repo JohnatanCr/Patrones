@@ -1,0 +1,15 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.csprojAssemblyReference.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.pdb
