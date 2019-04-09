@@ -1,0 +1,15 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\bin\Debug\WpfMultimedia.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\bin\Debug\WpfMultimedia.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\bin\Debug\WpfMultimedia.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\obj\Debug\WpfMultimedia.csprojAssemblyReference.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\obj\Debug\WpfMultimedia_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\obj\Debug\WpfMultimedia_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\obj\Debug\WpfMultimedia.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\obj\Debug\WpfMultimedia.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\obj\Debug\WpfMultimedia.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\obj\Debug\WpfMultimedia.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\obj\Debug\WpfMultimedia.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\WpfMultimedia\WpfMultimedia\obj\Debug\WpfMultimedia.pdb

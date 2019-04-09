@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfMultimedia.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfMultimedia"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="476" Width="540">
+    <Grid Margin="0, 0, 0, -3">
+        <!--<Grid.ColumnDefinitions>
+            <ColumnDefinition Width="227*"/>
+            <ColumnDefinition Width="169*"/>
+        </Grid.ColumnDefinitions>-->
+        <MediaElement Name="media" Source="Play" Height="400" Width="500" Margin="16,72,16,95" LoadedBehavior="Manual"/>
+
+        <Button x:Name="PlayButton" Content="Play" HorizontalAlignment="Left" Margin="101 371 0 0" VerticalAlignment="Top" Click="PlayButton_Click"/>
+
+        <Button x:Name="MuteButton" Content="Mute" HorizontalAlignment="Left" Margin="192 371 0 0" VerticalAlignment="Top" Click="MuteButton_Click"/>
+    </Grid>
+</Window>
