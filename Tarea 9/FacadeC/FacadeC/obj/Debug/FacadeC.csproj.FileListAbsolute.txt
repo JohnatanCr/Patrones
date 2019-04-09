@@ -1,0 +1,7 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\FacadeC\FacadeC\bin\Debug\FacadeC.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\FacadeC\FacadeC\bin\Debug\FacadeC.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\FacadeC\FacadeC\bin\Debug\FacadeC.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\FacadeC\FacadeC\obj\Debug\FacadeC.csprojAssemblyReference.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\FacadeC\FacadeC\obj\Debug\FacadeC.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\FacadeC\FacadeC\obj\Debug\FacadeC.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\FacadeC\FacadeC\obj\Debug\FacadeC.pdb

@@ -1,0 +1,7 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\AdapterEnchufe\AdapterEnchufe\bin\Debug\AdapterEnchufe.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\AdapterEnchufe\AdapterEnchufe\bin\Debug\AdapterEnchufe.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\AdapterEnchufe\AdapterEnchufe\bin\Debug\AdapterEnchufe.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\AdapterEnchufe\AdapterEnchufe\obj\Debug\AdapterEnchufe.csprojAssemblyReference.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\AdapterEnchufe\AdapterEnchufe\obj\Debug\AdapterEnchufe.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\AdapterEnchufe\AdapterEnchufe\obj\Debug\AdapterEnchufe.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\AdapterEnchufe\AdapterEnchufe\obj\Debug\AdapterEnchufe.pdb
