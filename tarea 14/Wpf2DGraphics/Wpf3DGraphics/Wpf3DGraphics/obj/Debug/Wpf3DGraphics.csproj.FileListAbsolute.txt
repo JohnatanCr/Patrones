@@ -1,0 +1,15 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\bin\Debug\Wpf3DGraphics.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\bin\Debug\Wpf3DGraphics.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\bin\Debug\Wpf3DGraphics.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\obj\Debug\Wpf3DGraphics.csprojAssemblyReference.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\obj\Debug\Wpf3DGraphics_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\obj\Debug\Wpf3DGraphics_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\obj\Debug\Wpf3DGraphics.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\obj\Debug\Wpf3DGraphics.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\obj\Debug\Wpf3DGraphics.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\obj\Debug\Wpf3DGraphics.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\obj\Debug\Wpf3DGraphics.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 14\Wpf3DGraphics\Wpf3DGraphics\obj\Debug\Wpf3DGraphics.pdb
