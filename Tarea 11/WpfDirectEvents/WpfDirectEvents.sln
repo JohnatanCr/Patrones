@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDirectEvents", "WpfDirectEvents\WpfDirectEvents.csproj", "{639916A0-DCEB-4DE1-94F2-CAA61CD8B86C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639916A0-DCEB-4DE1-94F2-CAA61CD8B86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639916A0-DCEB-4DE1-94F2-CAA61CD8B86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639916A0-DCEB-4DE1-94F2-CAA61CD8B86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639916A0-DCEB-4DE1-94F2-CAA61CD8B86C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98D07857-F549-4D56-A0E0-982596E9CB2A}
+	EndGlobalSection
+EndGlobal

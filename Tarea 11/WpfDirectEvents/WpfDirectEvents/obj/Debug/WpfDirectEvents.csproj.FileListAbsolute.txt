@@ -1,0 +1,15 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\bin\Debug\WpfDirectEvents.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\bin\Debug\WpfDirectEvents.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\bin\Debug\WpfDirectEvents.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\obj\Debug\WpfDirectEvents.csprojAssemblyReference.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\obj\Debug\WpfDirectEvents_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\obj\Debug\WpfDirectEvents_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\obj\Debug\WpfDirectEvents.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\obj\Debug\WpfDirectEvents.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\obj\Debug\WpfDirectEvents.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\obj\Debug\WpfDirectEvents.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\obj\Debug\WpfDirectEvents.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfDirectEvents\WpfDirectEvents\obj\Debug\WpfDirectEvents.pdb

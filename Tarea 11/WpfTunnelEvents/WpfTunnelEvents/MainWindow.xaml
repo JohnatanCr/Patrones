@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfTunnelEvents.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfTunnelEvents"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="outerbutton" HorizontalAlignment="Left" VerticalAlignment="Top" Width="364" Margin="199,113,0,0" Height="144"  PreviewMouseDown="Outerbutton_PreviewMouseDown">
+            <Button x:Name="innerbutton" Height="30" Width="80" Content="Inner button"  PreviewMouseDown="Innerbutton_PreviewMouseDown"/>
+        </Button>
+        <Label x:Name="label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="42 50 0 0" Width="455" Height="30"/>
+
+    </Grid>
+</Window>

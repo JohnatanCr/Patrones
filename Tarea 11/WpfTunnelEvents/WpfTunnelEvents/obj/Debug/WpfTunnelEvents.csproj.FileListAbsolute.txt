@@ -1,0 +1,14 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\bin\Debug\WpfTunnelEvents.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\bin\Debug\WpfTunnelEvents.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\bin\Debug\WpfTunnelEvents.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\obj\Debug\WpfTunnelEvents_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\obj\Debug\WpfTunnelEvents_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\obj\Debug\WpfTunnelEvents.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\obj\Debug\WpfTunnelEvents.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\obj\Debug\WpfTunnelEvents.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\obj\Debug\WpfTunnelEvents.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\obj\Debug\WpfTunnelEvents.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 11\WpfTunnelEvents\WpfTunnelEvents\obj\Debug\WpfTunnelEvents.pdb
