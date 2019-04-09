@@ -1,0 +1,22 @@
+﻿<Window x:Class="Wpf2DGraphics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf2DGraphics"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--<Ellipse Margin="100" Width="200" Stroke="Blue" StrokeThickness="2">
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="C:\Users\mario_000\Pictures\Conexion.PNG"></ImageBrush>
+            </Ellipse.Fill>
+
+        </Ellipse>-->
+
+        <!--<Rectangle Height="100" Width="200" Stroke="Green" Fill="Orange"></Rectangle>-->
+        <!-- <Polygon Points="50 50 120 120 250 120 300 40 150 5" Stroke="Red" StrokeThickness="3" ></Polygon>-->
+
+        <!--<Line X1="100" Y1="100" X2="300" Y2="100"></Line>-->
+    </Grid>
+</Window>
