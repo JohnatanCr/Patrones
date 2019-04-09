@@ -1,0 +1,15 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\bin\Debug\WpfValueConverter.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\bin\Debug\WpfValueConverter.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\bin\Debug\WpfValueConverter.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\obj\Debug\WpfValueConverter_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\obj\Debug\WpfValueConverter_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\obj\Debug\WpfValueConverter.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\obj\Debug\WpfValueConverter.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\obj\Debug\WpfValueConverter.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\obj\Debug\WpfValueConverter.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\obj\Debug\WpfValueConverter.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfValueConverter\WpfValueConverter\obj\Debug\WpfValueConverter.pdb

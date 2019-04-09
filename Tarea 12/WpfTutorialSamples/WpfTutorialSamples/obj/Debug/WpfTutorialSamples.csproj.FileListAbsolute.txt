@@ -1,0 +1,15 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\WpfTutorialSamples.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\WpfTutorialSamples.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\WpfTutorialSamples.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\WpfTutorialSamples.csprojAssemblyReference.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\WpfTutorialSamples_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\WpfTutorialSamples_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\WpfTutorialSamples.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\WpfTutorialSamples.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\WpfTutorialSamples.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\WpfTutorialSamples.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\WpfTutorialSamples.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\WpfTutorialSamples.pdb
